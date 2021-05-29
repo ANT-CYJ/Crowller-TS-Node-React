@@ -2,7 +2,7 @@
  * @Author: Neo
  * @Date: 2021-05-29 21:28:46
  * @LastEditors: Neo
- * @LastEditTime: 2021-05-29 22:32:16
+ * @LastEditTime: 2021-05-29 23:29:17
  * @Description: file content
 -->
 
@@ -25,8 +25,8 @@ React+Node+TS 实现简单的爬虫应用
 
 简单项目说明
 
-- [React 前端项目](./src/frontend-project)
-- [TS+Express 后端项目](./src/backend-project)
+- [React 前端项目](https://github.com/ANT-CYJ/Crowller-TS-Node-React-frontend-project.git)
+- [TS+Express 后端项目](./backend-project)
 
 ## 交流&提问
 
