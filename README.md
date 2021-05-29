@@ -2,7 +2,7 @@
  * @Author: Neo
  * @Date: 2021-05-29 21:28:46
  * @LastEditors: Neo
- * @LastEditTime: 2021-05-29 22:16:47
+ * @LastEditTime: 2021-05-29 22:26:38
  * @Description: file content
 -->
 
@@ -23,10 +23,10 @@ React+Node+TS 实现简单的爬虫应用
 
 ## 快速使用
 
-简单接入的文档
+简单项目说明
 
-- [前端项目](./doc/use/README.md)
-- [后端项目](./doc/dev/README.md)
+- [React 前端项目](./src/frontend-project)
+- [TS+Express 后端项目](./src/backend-project)
 
 ## 交流&提问
 
