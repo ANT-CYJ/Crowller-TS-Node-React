@@ -2,7 +2,7 @@
  * @Author: Neo
  * @Date: 2021-05-29 21:28:46
  * @LastEditors: Neo
- * @LastEditTime: 2021-05-31 18:05:25
+ * @LastEditTime: 2021-05-31 18:29:36
  * @Description: file content
 -->
 
@@ -18,7 +18,7 @@ React+Node+TS 实现简单的爬虫应用
 
 ## 安装下载
 
-- 下载地址 https://github.com/ANT-CYJ/Crowller-TS-Node-React.git
+- 下载地址 https://github.com/ANT-CYJ/Crowller-TS-Node-React/releases
 - `npm i Crowller-TS-Node-React`
 
 ## 快速使用
