@@ -1,6 +1,6 @@
 {
   "name": "crowller-ts-node-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React+Node+TS 实现简单的爬虫应用",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
